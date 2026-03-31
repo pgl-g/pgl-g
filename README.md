@@ -2,7 +2,7 @@
 **Frontend Heavy | Fullstack Capable | Open Source Enthusiast**
 
 <p align="left">
- <a href="https://www.guxiaobiao.top/"><img src="https://img.shields.io/badge/-Portfolio-31A8FF?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
+ <a href="https://next-blog-rho-self.vercel.app/projects/"><img src="https://img.shields.io/badge/-Portfolio-31A8FF?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
@@ -37,8 +37,8 @@
 
 ### 📊 Github Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=vue-dark&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pgl-g&show_icons=true&theme=vue-dark&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgl-g&layout=compact&theme=vue-dark" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ### 🔍 Current Interests
 - 🏹 Deep diving into **Vue 3 Source Code** and **Vite** ecosystem.
 - 🐳 Scaling applications with **Docker & Kubernetes**.
-- ✍️ Writing technical blogs at [guxiaobiao.top](https://www.guxiaobiao.top/).
+- ✍️ Writing technical blogs at [guxiaobiao.top](https://next-blog-rho-self.vercel.app/projects/).
 
 ---
 
