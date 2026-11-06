@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/mark-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/mark-light.png">
-  <img src="./assets/mark-light.png" alt="顾孝标，Gu Xiaobiao，杭州" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/plate-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/plate-light.png">
+  <img src="./assets/plate-light.png" alt="PGL，杭州" width="100%">
 </picture>
 
 从前端走到全栈。在意一个东西从界面到上线，是不是同一条链路。
