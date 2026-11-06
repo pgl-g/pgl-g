@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/mark-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/mark-light.svg">
-  <img src="./assets/mark-light.svg" alt="顾孝标，Gu Xiaobiao，杭州" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/mark-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/mark-light.png">
+  <img src="./assets/mark-light.png" alt="顾孝标，Gu Xiaobiao，杭州" width="100%">
 </picture>
 
 从前端转到全栈，希望做出有趣、好用的产品。
@@ -59,15 +59,3 @@
 | JavaScript · TypeScript | Node.js · Nginx | Docker · Kubernetes |
 | Vue · React | MySQL · PostgreSQL | Jenkins · Git · Linux |
 | Webpack · Sass | Redis · MongoDB | |
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pgl-g&show_icons=true&include_all_commits=true&hide_border=true&bg_color=141311&title_color=f6f1e8&text_color=d6d3d1&icon_color=c6a36a&ring_color=c6a36a">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pgl-g&show_icons=true&include_all_commits=true&hide_border=true&bg_color=f4f1eb&title_color=1a1814&text_color=44403c&icon_color=8a6232&ring_color=8a6232">
-  <img src="https://github-readme-stats.vercel.app/api?username=pgl-g&show_icons=true&include_all_commits=true&hide_border=true&bg_color=f4f1eb&title_color=1a1814&text_color=44403c&icon_color=8a6232&ring_color=8a6232" alt="pgl-g 的 GitHub 统计">
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pgl-g&layout=compact&hide_border=true&bg_color=141311&title_color=f6f1e8&text_color=d6d3d1">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pgl-g&layout=compact&hide_border=true&bg_color=f4f1eb&title_color=1a1814&text_color=44403c">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgl-g&layout=compact&hide_border=true&bg_color=f4f1eb&title_color=1a1814&text_color=44403c" alt="pgl-g 常用语言">
-</picture>
